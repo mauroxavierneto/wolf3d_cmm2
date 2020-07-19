@@ -2,6 +2,8 @@
 Wolfenstein 3D version from scratch for Colour Maximite 2
 (I RECOMMEND THE LAST BETA FIRMWARE FOR CMM2 TO PLAY THIS)
 
+Changelog:
+
 Version 0.2a - 2020-07-19
 Before anyone test, it here is some limitations and known bugs in this version:
 - It´s far away from an optimized game, some parts if you don´t choose auto graphic level can be slow as hell!
