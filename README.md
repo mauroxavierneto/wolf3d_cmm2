@@ -5,6 +5,7 @@ Wolfenstein 3D version from scratch for Colour Maximite 2
 Changelog:
 
 Version 0.2a - 2020-07-19
+
 Before anyone test, it here is some limitations and known bugs in this version:
 - It´s far away from an optimized game, some parts if you don´t choose auto graphic level can be slow as hell!
 - Enemies can in rare occasions trespass walls.
@@ -33,4 +34,5 @@ Implemented:
 - I remade some game arts to respect German people, but there are other things that I will do better sometime.
 
 Version 0.1a - 2020-07-05
+
 Initial Tests for first Youtube video
