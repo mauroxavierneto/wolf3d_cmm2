@@ -1,4 +1,2 @@
-.bas linguist-language=visualbasic
-.inc linguist-language=visualbasic
-.BAS linguist-language=visualbasic
-.INC linguist-language=visualbasic
+*.bas linguist-language=visualbasic
+*.inc linguist-language=visualbasic
