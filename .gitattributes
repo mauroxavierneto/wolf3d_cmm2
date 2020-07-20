@@ -1,7 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 *.bas linguist-detectable=false
 *.inc linguist-detectable=false
-.bas linguist-language=Visualbasic
-.inc linguist-language=Visualbasic
-
+*.INC linguist-vendored
+*.BAS linguist-vendored
