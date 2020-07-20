@@ -1,2 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
 *.bas linguist-language=visualbasic
 *.inc linguist-language=visualbasic
