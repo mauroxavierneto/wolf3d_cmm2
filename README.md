@@ -4,9 +4,23 @@ Wolfenstein 3D version from scratch for Colour Maximite 2
 
 Changelog:
 
+Version 0.3a - 2020-07-23
+
+Here are some limitations and known bugs in this version:
+- Some enemies see you through walls.
+- Some enemies shot at you through walls.
+- Random blocks appear when loading a map from stage to another, even cleaning all arrays.
+
+Implemented / Fixed:
+- A little gain of speed, about 2-3 FPS.
+- Changed automatic graphics from 7-10 FPS to 8-12 FPS.
+- Fixed tileset "pool of blood".
+- Fixed Keys that are not cleared correctly when changing the stage.
+
+
 Version 0.2a - 2020-07-19
 
-Before anyone test, it here is some limitations and known bugs in this version:
+Here are some limitations and known bugs in this version:
 - It´s far away from an optimized game, some parts if you don´t choose auto graphic level can be slow as hell!
 - Enemies can in rare occasions trespass walls.
 - Have fun, you can´t die yet!
@@ -23,7 +37,7 @@ Before anyone test, it here is some limitations and known bugs in this version:
 - The difficult level is not well balanced.
 - I´m already said the game isn´t optimized yet? ;)
 
-Implemented:
+Implemented / Fixed:
 - It´s possible to read any Wolfenstein stage exported from FLR format
 - Brown guards, ss, dogs, officers and the first boss are almost full implemented
 - I think the music is better than the original
@@ -32,6 +46,7 @@ Implemented:
 - I think it´s fun to play if you could ignore some speed constrains
 - See the controls list, you can change window size with F5 and made it zoom with F6... And can have something like the resolution of Wolf3D from SNES or Gameboy
 - I remade some game arts to respect German people, but there are other things that I will do better sometime.
+
 
 Version 0.1a - 2020-07-05
 
