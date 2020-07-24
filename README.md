@@ -28,7 +28,7 @@ Here are some limitations and known bugs in this version:
 - The secret passages don´t move as the original for the same limitation as to the doors (but it works!)
 - Objects and enemies can appear after or before the walls.
 - Enemies don´t have z-order yet to appear from back to front correctly.
-- In the last floor (9) when you kill the boss and go to the end, the game will show an error because there is an episode finish yet.
+- In the last floor (9) when you kill the boss and go to the end, the game will show an error because there is no episode finish yet.
 - The Boss can´t pass through an open door sometimes.
 - There is no joystick support yet (waiting for my Wii classic controller)
 - The shift key is an almost a must to move and rotates to the sides if you are not aiming an enemy, otherwise, the current slow speed can drive you nuts ;)
