@@ -1,8 +1,21 @@
 # wolf3d_cmm2
 Wolfenstein 3D version from scratch for Colour Maximite 2
-(I RECOMMEND THE LAST BETA FIRMWARE FOR CMM2 TO PLAY THIS)
+(YOU NEED AT LEAST THE FIRMWARE VERSION 5.05.06 FOR CMM2 TO PLAY THIS)
 
 Changelog:
+
+Version 0.5a - 2020-10-12 -------------------------------------
+
+Implemented / Fixed:
+- General optimizations
+- Fixed bug where the boss was unable to get through the door
+- Implemented framebuffer for textures and objects
+- Some sound effects now are using MOD samples, giving more speed to the game
+- Fixed some bugs on the enemies when spotting the players
+
+Here are some limitations and known bugs in this version:
+- In the last stage when you try to finish it will give you an error
+
 
 Version 0.4a - 2020-07-26 -------------------------------------
 
