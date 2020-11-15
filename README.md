@@ -1,10 +1,15 @@
 # wolf3d_cmm2
 Wolfenstein 3D version from scratch for Colour Maximite 2
-(YOU NEED AT LEAST THE FIRMWARE VERSION 5.05.06 FOR CMM2 TO PLAY THIS)
+(YOU NEED AT LEAST THE FIRMWARE VERSION 5.05.06RC19 FOR CMM2 TO PLAY THIS)
 
 PS.: There is some bugs in the objects and enemies z-buffer order, I will fix this in the future.
 
 Changelog:
+
+Version 0.6a - 2020-11-15 -------------------------------------
+- Requires firmware 5.05.06RC19 or above
+- General optimizations in raycaster to use the optimizations of the new firmware
+
 
 Version 0.5a - 2020-10-12 -------------------------------------
 
