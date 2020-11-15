@@ -29,7 +29,7 @@ SUB CONTROL_ENEMY(O)
 
    CASE 2 TO 10:
     'FIRING
-    INC ACT_OBJ(O)
+    INC ACT_OBJ(O),1
     ANI_OBJ(O)=ACT_OBJ(O)+2    
     SELECT CASE ANI_OBJ(O)
      CASE 7: 
