@@ -1,7 +1,7 @@
 # wolf3d_cmm2
 Wolfenstein 3D version from scratch for Colour Maximite 2
 
-(YOU NEED AT LEAST THE FIRMWARE VERSION 5.05.06 FOR CMM2 TO PLAY THIS)
+(YOU NEED AT LEAST THE FIRMWARE VERSION 5.06 FOR CMM2 TO PLAY THIS)
 
 To do at now:
 - Implement frame time speed to all entities
@@ -13,7 +13,7 @@ To do at now:
 Changelog:
 
 Version 0.7a - 2020-12-14 -------------------------------------
-- Requires firmware 5.05.06 or up
+- Requires firmware 5.06 or up
 - General optimizations in raycaster to use the optimizations of the new firmware
 - Implemented perspective correction on the textures
 - Now players move at the same speed using frame time, independently of how much CPU the raycast engine is using
