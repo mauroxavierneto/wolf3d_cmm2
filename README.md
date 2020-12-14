@@ -1,6 +1,7 @@
 # wolf3d_cmm2
 Wolfenstein 3D version from scratch for Colour Maximite 2
-(YOU NEED AT LEAST THE FIRMWARE VERSION 5.05.06RC19 FOR CMM2 TO PLAY THIS)
+
+(YOU NEED AT LEAST THE FIRMWARE VERSION 5.05.06 FOR CMM2 TO PLAY THIS)
 
 To do at now:
 - Implement frame time speed to all entities
