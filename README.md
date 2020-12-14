@@ -19,6 +19,7 @@ Version 0.7a - 2020-12-14 -------------------------------------
 - Now players move at the same speed using frame time, independently of how much CPU the raycast engine is using
 - Implemented z-buffer
 - Fixed weapon rendering
+- Fixed stuck doors
 
 
 Version 0.6a - 2020-11-15 -------------------------------------
