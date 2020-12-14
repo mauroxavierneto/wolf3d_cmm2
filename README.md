@@ -2,12 +2,26 @@
 Wolfenstein 3D version from scratch for Colour Maximite 2
 (YOU NEED AT LEAST THE FIRMWARE VERSION 5.05.06RC19 FOR CMM2 TO PLAY THIS)
 
-PS.: There is some bugs in the objects and enemies z-buffer order, I will fix this in the future.
+To do at now:
+- Implement frame time speed to all entities
+- Fix zoom window
+- Fix weapon on zoomed window
+- Fix objects on the 2x pixel detail mode
+- Implement fire trajectory to a correct collision
 
 Changelog:
 
+Version 0.7a - 2020-12-14 -------------------------------------
+- Requires firmware 5.05.06 or up
+- General optimizations in raycaster to use the optimizations of the new firmware
+- Implemented perspective correction on the textures
+- Now players move at the same speed using frame time, independently of how much CPU the raycast engine is using
+- Implemented z-buffer
+- Fixed weapon rendering
+
+
 Version 0.6a - 2020-11-15 -------------------------------------
-- Requires firmware 5.05.06RC19 or above
+- Requires firmware 5.05.06RC19 or up
 - General optimizations in raycaster to use the optimizations of the new firmware
 
 
